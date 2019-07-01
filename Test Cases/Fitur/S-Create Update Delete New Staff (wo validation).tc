@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S-Create Update Delete New Staff (wo validation)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9cbe44c-4889-4784-a0ca-817b966791c2</testCaseGuid>
+   <variable>
+      <defaultValue>'STAF'</defaultValue>
+      <description></description>
+      <id>a40aaa95-a9c3-4535-9d6b-01f861200cf6</id>
+      <masked>false</masked>
+      <name>id_staff</name>
+   </variable>
+   <variable>
+      <defaultValue>'Staff '</defaultValue>
+      <description></description>
+      <id>2ec03efb-db9e-4e09-b7d8-67f1b59e0beb</id>
+      <masked>false</masked>
+      <name>nama_staff</name>
+   </variable>
+   <variable>
+      <defaultValue>'081234567890'</defaultValue>
+      <description></description>
+      <id>3104f420-a5ab-47e7-aa8e-9dd88c4ba8e6</id>
+      <masked>false</masked>
+      <name>telp_staff</name>
+   </variable>
+   <variable>
+      <defaultValue>'staff@mail.com'</defaultValue>
+      <description></description>
+      <id>2c5e5691-00d1-42b2-8cfa-e1e7dadc92f3</id>
+      <masked>false</masked>
+      <name>email_staff</name>
+   </variable>
+   <variable>
+      <defaultValue>'STAFF'</defaultValue>
+      <description></description>
+      <id>8d4423a7-07ac-47a6-a12a-d0c8c60a49cd</id>
+      <masked>false</masked>
+      <name>new_nama_staff</name>
+   </variable>
+   <variable>
+      <defaultValue>'082234567899'</defaultValue>
+      <description></description>
+      <id>dcae706f-ab9f-409c-93a1-ce3813091106</id>
+      <masked>false</masked>
+      <name>new_telp_staff</name>
+   </variable>
+</TestCaseEntity>

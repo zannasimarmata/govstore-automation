@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Vendor - Reject Order (fixed)</name>
+   <tag></tag>
+   <comment>Close browser</comment>
+   <testCaseGuid>7d289991-f16b-4a70-8281-141c8d9c3eba</testCaseGuid>
+</TestCaseEntity>

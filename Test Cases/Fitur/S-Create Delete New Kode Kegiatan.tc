@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S-Create Delete New Kode Kegiatan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c0527fe-d473-4cfc-a473-016cffcae78f</testCaseGuid>
+   <variable>
+      <defaultValue>'1731'</defaultValue>
+      <description></description>
+      <id>74502b67-d525-4986-8fb1-2793584250b3</id>
+      <masked>false</masked>
+      <name>kodeKegiatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pengembangan SDM Melalui Penyelenggaraan Pendidikan dan Pelatihan Keuangan Negara di Daerah'</defaultValue>
+      <description></description>
+      <id>b7eaba27-774b-4783-b8ae-90a8f8ba96bd</id>
+      <masked>false</masked>
+      <name>deskripsi</name>
+   </variable>
+</TestCaseEntity>

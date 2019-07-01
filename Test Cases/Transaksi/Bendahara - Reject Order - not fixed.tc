@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Prerequisite: after step/testcase DirTeknis - Konfirmasi Barang</description>
+   <name>Bendahara - Reject Order - not fixed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1630ba0-f76c-4a38-9d17-73416b6ca92d</testCaseGuid>
+</TestCaseEntity>

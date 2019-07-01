@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lstProductType</name>
+   <tag></tag>
+   <elementGuidId>052b9a81-5898-4ddc-bcd2-d8b5f628e2ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[3]/div/div/form/div/div[2]/div/div[2]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/form/div/div[2]/div/div[2]/select</value>
+   </webElementProperties>
+</WebElementEntity>

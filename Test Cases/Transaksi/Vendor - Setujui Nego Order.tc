@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Vendor - Setujui Nego Order</name>
+   <tag></tag>
+   <comment>Login as Pengadaan to approve order
+Close browser</comment>
+   <testCaseGuid>744971d8-9e74-459e-a893-dcf2367c8c5e</testCaseGuid>
+   <variable>
+      <defaultValue>'-1100'</defaultValue>
+      <description></description>
+      <id>db1cfdc8-2744-44cb-8b72-0d5c33da8d91</id>
+      <masked>false</masked>
+      <name>vendor_price_nego</name>
+   </variable>
+   <variable>
+      <defaultValue>'1900'</defaultValue>
+      <description></description>
+      <id>7b83d556-3f11-423a-a9df-ece60bca1394</id>
+      <masked>false</masked>
+      <name>new_vendor_price_nego</name>
+   </variable>
+</TestCaseEntity>

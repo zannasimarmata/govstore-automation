@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtTax</name>
+   <tag></tag>
+   <elementGuidId>5dc85164-a7b1-4c94-84fb-94df994217db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[3]/div/div/form/div/div//input[@placeholder='tax']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/form/div/div//input[@placeholder='tax']</value>
+   </webElementProperties>
+</WebElementEntity>

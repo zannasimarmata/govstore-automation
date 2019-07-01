@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>K-Create Update Delete New Satker (wo validation)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f53858f2-f414-40f4-bf75-37ee1ff751e2</testCaseGuid>
+   <variable>
+      <defaultValue>'Satker'</defaultValue>
+      <description></description>
+      <id>178b5810-a873-4303-b68d-d0c9ce3e76f6</id>
+      <masked>false</masked>
+      <name>IdSatker</name>
+   </variable>
+   <variable>
+      <defaultValue>'Satker Pengadaan'</defaultValue>
+      <description></description>
+      <id>53c8ef06-ebe7-401f-82f6-597eb2a91204</id>
+      <masked>false</masked>
+      <name>NamaSatker</name>
+   </variable>
+   <variable>
+      <defaultValue>'satker.pengadaan@mail.com'</defaultValue>
+      <description></description>
+      <id>0ee5a6c0-1c3c-429c-b25f-fb5d194847e9</id>
+      <masked>false</masked>
+      <name>EmailSatker</name>
+   </variable>
+   <variable>
+      <defaultValue>'DKI Jakarta'</defaultValue>
+      <description></description>
+      <id>ac5a98d9-99da-443a-a626-b3defc401072</id>
+      <masked>false</masked>
+      <name>AlamatSatker</name>
+   </variable>
+   <variable>
+      <defaultValue>'234567893'</defaultValue>
+      <description></description>
+      <id>71bb042e-3e84-44a1-9f7d-de82b62cd265</id>
+      <masked>false</masked>
+      <name>GeoLocation</name>
+   </variable>
+   <variable>
+      <defaultValue>'Satker Pengadaan'</defaultValue>
+      <description></description>
+      <id>3cf3a669-2bc2-4b71-8bcb-90ebec768656</id>
+      <masked>false</masked>
+      <name>new_NamaSatker</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jakarta Selatan'</defaultValue>
+      <description></description>
+      <id>170f0367-b53e-4e51-871f-04445f448ed5</id>
+      <masked>false</masked>
+      <name>new_AlamatSatker</name>
+   </variable>
+   <variable>
+      <defaultValue>'Setiabudi, Jakarta Selatan'</defaultValue>
+      <description></description>
+      <id>2623484d-6294-4844-a56e-724b5bf0c7f3</id>
+      <masked>false</masked>
+      <name>new_GeoLocation</name>
+   </variable>
+   <variable>
+      <defaultValue>'bookstores27'</defaultValue>
+      <description></description>
+      <id>7750dbb6-a163-4c45-b96c-82df2f0a9b8e</id>
+      <masked>false</masked>
+      <name>wrong_email</name>
+   </variable>
+</TestCaseEntity>

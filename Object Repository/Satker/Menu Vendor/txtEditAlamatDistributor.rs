@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtEditAlamatDistributor</name>
+   <tag></tag>
+   <elementGuidId>b69c39b5-4f50-4107-85f1-26acd317882d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[3]/div/div/form/div/div//textarea[@placeholder='alamat']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/form/div/div//textarea[@placeholder='alamat']</value>
+   </webElementProperties>
+</WebElementEntity>

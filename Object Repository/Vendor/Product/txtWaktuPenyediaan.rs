@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtWaktuPenyediaan</name>
+   <tag></tag>
+   <elementGuidId>3833285d-cda9-48e7-a761-a1dadc3e063a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;modal_form_add&quot;]/div/div/form/div/div[9]/div/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;modal_form_add&quot;]/div/div/form/div/div[9]/div/div[1]/input</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnSubmit</name>
+   <tag></tag>
+   <elementGuidId>5a8ae501-5571-48a5-8f87-e6169f2bc6dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div/div/form/div/div/button[contains(text(),'Submit')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div/div/form/div/div/button[contains(text(),'Submit')]</value>
+   </webElementProperties>
+</WebElementEntity>

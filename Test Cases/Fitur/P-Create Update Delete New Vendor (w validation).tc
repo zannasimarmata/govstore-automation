@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>P-Create Update Delete New Vendor (w validation)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab27992e-e9bb-400e-a5be-d93f0e8624b8</testCaseGuid>
+   <variable>
+      <defaultValue>'dist'</defaultValue>
+      <description></description>
+      <id>ea7021d6-0a6b-4cd7-a3c6-002858d65fe0</id>
+      <masked>false</masked>
+      <name>id_distributor</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dist'</defaultValue>
+      <description></description>
+      <id>83827c44-d586-45fb-804b-78c43034d046</id>
+      <masked>false</masked>
+      <name>nama_distributor</name>
+   </variable>
+   <variable>
+      <defaultValue>'08'</defaultValue>
+      <description></description>
+      <id>d2657c0d-6ee6-443a-9228-099f5f48f132</id>
+      <masked>false</masked>
+      <name>no_telp</name>
+   </variable>
+   <variable>
+      <defaultValue>'020622343434003'</defaultValue>
+      <description></description>
+      <id>da191758-36b7-4459-86c7-7b14698df4d9</id>
+      <masked>false</masked>
+      <name>norek_bri</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jl Kiri II Blok 2 No 14'</defaultValue>
+      <description></description>
+      <id>642f1efa-62b7-4570-bd2e-3397e8058e6b</id>
+      <masked>false</masked>
+      <name>alamat_distributor</name>
+   </variable>
+   <variable>
+      <defaultValue>'Distributor'</defaultValue>
+      <description></description>
+      <id>80cd5ebe-a7e0-446a-b20c-64798fa39cde</id>
+      <masked>false</masked>
+      <name>edit_nama_distributor</name>
+   </variable>
+   <variable>
+      <defaultValue>'020612345667533'</defaultValue>
+      <description></description>
+      <id>1985c4d9-b0ee-4c94-be76-7f81f524306d</id>
+      <masked>false</masked>
+      <name>edit_norek_bri</name>
+   </variable>
+   <variable>
+      <defaultValue>'Jl Kanan II Blok 2 No 14'</defaultValue>
+      <description></description>
+      <id>521c4ff8-0ae2-48c6-a6fb-b17e30543534</id>
+      <masked>false</masked>
+      <name>edit_alamat_distributor</name>
+   </variable>
+</TestCaseEntity>

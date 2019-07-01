@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iconCloseNego</name>
+   <tag></tag>
+   <elementGuidId>1b85482f-8d1d-410d-aae0-37f1d1da4946</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[7]//button/i[@class='icon-cancel-circle2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[7]//button/i[@class='icon-cancel-circle2']</value>
+   </webElementProperties>
+</WebElementEntity>

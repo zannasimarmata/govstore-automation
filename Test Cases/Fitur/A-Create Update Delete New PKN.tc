@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>A-Create Update Delete New PKN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18d70300-f736-4f71-a6aa-0de448911608</testCaseGuid>
+   <variable>
+      <defaultValue>'adminpkn2'</defaultValue>
+      <description></description>
+      <id>10f42c03-951c-4a63-a9b6-e9522fad1eae</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'112088374'</defaultValue>
+      <description></description>
+      <id>34e68315-3b1b-4cac-af20-b277b1f38941</id>
+      <masked>false</masked>
+      <name>nip</name>
+   </variable>
+   <variable>
+      <defaultValue>'90888322'</defaultValue>
+      <description></description>
+      <id>081e03b4-4a05-4acb-9460-c9f8ea232b8e</id>
+      <masked>false</masked>
+      <name>nik</name>
+   </variable>
+   <variable>
+      <defaultValue>'jono2@gmail.com'</defaultValue>
+      <description></description>
+      <id>d43fe110-0ea6-43bd-a8d6-feba03969207</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'08786238283'</defaultValue>
+      <description></description>
+      <id>37d5fd40-ee2d-41f1-bb5b-2a539c9a060c</id>
+      <masked>false</masked>
+      <name>nohp</name>
+   </variable>
+</TestCaseEntity>

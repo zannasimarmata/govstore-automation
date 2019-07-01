@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Prerequisite: after step/testcase DirTeknis - Konfirmasi Barang</description>
+   <name>Bendahara - Approve Order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25faa0c0-0d26-460f-b237-5bc0b0328464</testCaseGuid>
+</TestCaseEntity>

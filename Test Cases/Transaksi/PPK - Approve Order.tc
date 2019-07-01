@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPK - Approve Order</name>
+   <tag></tag>
+   <comment>Wait for page fully loaded in 4 secs</comment>
+   <testCaseGuid>ddbf11f2-b63b-416b-ae95-4b2a61d7fc4b</testCaseGuid>
+</TestCaseEntity>

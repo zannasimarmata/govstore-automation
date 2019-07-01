@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Dirteknis create new order. This testcase has validation on step checkout</description>
+   <name>DirTeknis - Create Order - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94f2d6da-027f-4669-9368-100ce8568aa0</testCaseGuid>
+   <variable>
+      <defaultValue>'pukis'</defaultValue>
+      <description></description>
+      <id>f38fa2ef-d0d6-4094-b36a-05c3f32c1c11</id>
+      <masked>false</masked>
+      <name>product_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>efc649ee-b282-4b19-a113-5767d6c33cfa</id>
+      <masked>false</masked>
+      <name>stock_to_buy</name>
+   </variable>
+   <variable>
+      <defaultValue>'dibungkus dengan rapih'</defaultValue>
+      <description></description>
+      <id>46d7659d-a214-486f-bcc5-899ff3c2dcfe</id>
+      <masked>false</masked>
+      <name>note</name>
+   </variable>
+   <variable>
+      <defaultValue>'0812234'</defaultValue>
+      <description></description>
+      <id>e1f973dc-aad8-4ba7-8d82-f8bb498d7b30</id>
+      <masked>false</masked>
+      <name>consignee_phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bapak Jono'</defaultValue>
+      <description></description>
+      <id>deba933e-03bd-46a7-8afd-78814ba11b50</id>
+      <masked>false</masked>
+      <name>consignee</name>
+   </variable>
+   <variable>
+      <defaultValue>'021'</defaultValue>
+      <description></description>
+      <id>415ad264-2a6f-4143-840b-c6f68ed1cdd2</id>
+      <masked>false</masked>
+      <name>no_telp</name>
+   </variable>
+   <variable>
+      <defaultValue>'KJT; Gedung BRI II Lantai 9\r\n'</defaultValue>
+      <description></description>
+      <id>aba485d2-7734-4984-8483-d8f6dab7a2ac</id>
+      <masked>false</masked>
+      <name>delivery_address</name>
+   </variable>
+   <variable>
+      <defaultValue>'14:10'</defaultValue>
+      <description></description>
+      <id>9e97c648-6b00-4fe2-b86f-68f1e57c2c70</id>
+      <masked>false</masked>
+      <name>ETA</name>
+   </variable>
+   <variable>
+      <defaultValue>'daily meeting'</defaultValue>
+      <description></description>
+      <id>0a540d25-80ba-4ba7-a576-bedfdab9c396</id>
+      <masked>false</masked>
+      <name>kode_kegiatan</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234567890976'</defaultValue>
+      <description></description>
+      <id>39e84381-7fe4-42b7-9fb1-cbad95642f2a</id>
+      <masked>false</masked>
+      <name>geo_location</name>
+   </variable>
+</TestCaseEntity>

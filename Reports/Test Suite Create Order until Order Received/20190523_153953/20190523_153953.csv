@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test Suite Create Order until Order Received,Chrome 74.0.3729.169,,2019-05-23 15:40:20,2019-05-23 15:47:43,7m - 22.803s,FAILED
+,,,,,,
+Test Cases/General/Open Browser,Chrome 74.0.3729.169,,2019-05-23 15:40:21,2019-05-23 15:43:21,3m - 0.590s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.169,,2019-05-23 15:40:21,2019-05-23 15:40:46,24.827s,PASSED
+waitForPageLoad(4),Chrome 74.0.3729.169,,2019-05-23 15:40:46,2019-05-23 15:40:48,1.202s,PASSED
+maximizeWindow(),Chrome 74.0.3729.169,,2019-05-23 15:40:48,2019-05-23 15:40:50,2.138s,PASSED
+navigateToUrl(govstoreUrl),Chrome 74.0.3729.169,,2019-05-23 15:40:50,2019-05-23 15:43:21,2m - 31.597s,PASSED
+,,,,,,
+Test Cases/Transaksi/DirTeknis - Create Order - Normal,Chrome 74.0.3729.169,Dirteknis create new order. This testcase has no validation,2019-05-23 15:43:21,2019-05-23 15:46:06,2m - 44.258s,FAILED
+waitForPageLoad(4),Chrome 74.0.3729.169,,2019-05-23 15:43:22,2019-05-23 15:43:23,1.087s,PASSED
+common.login.loginDirTeknis(),Chrome 74.0.3729.169,,2019-05-23 15:43:23,2019-05-23 15:43:33,10.054s,PASSED
+"click(findTestObject(""DirTeknis/Left Menu/lblCatalog""))",Chrome 74.0.3729.169,,2019-05-23 15:43:33,2019-05-23 15:45:02,1m - 29.353s,PASSED
+waitForPageLoad(4),Chrome 74.0.3729.169,,2019-05-23 15:45:02,2019-05-23 15:45:03,1.013s,PASSED
+"setText(findTestObject(""DirTeknis/Order/txtSearchProduct""), product_name)",Chrome 74.0.3729.169,,2019-05-23 15:45:03,2019-05-23 15:45:07,3.407s,PASSED
+"click(findTestObject(""DirTeknis/Order/lblProductName""))",Chrome 74.0.3729.169,,2019-05-23 15:45:07,2019-05-23 15:45:12,5.492s,PASSED
+"stock = getText(findTestObject(""Object Repository/DirTeknis/Order/lblJumlahStok""))",Chrome 74.0.3729.169,Get Stock of item that will be ordered,2019-05-23 15:45:12,2019-05-23 15:45:15,2.220s,PASSED
+"setText(findTestObject(""DirTeknis/Order/txtInputJumlahBeli""), stock_to_buy)",Chrome 74.0.3729.169,Input qty to be ordered,2019-05-23 15:45:15,2019-05-23 15:45:18,3.239s,PASSED
+"click(findTestObject(""DirTeknis/Order/btnAddtoCart""))",Chrome 74.0.3729.169,Klik tambah ke keranjang,2019-05-23 15:45:18,2019-05-23 15:45:20,2.207s,PASSED
+"if (Integer.parseInt(stock) < Integer.parseInt(stock_to_buy) && verifyElementPresent(findTestObject(""Object Repository/DirTeknis/Order/popUpAddCartSuccess""), 3))",Chrome 74.0.3729.169,Compare stock left and stock inputted by Dirteknis,2019-05-23 15:45:20,2019-05-23 15:45:29,8.942s,PASSED
+"else if (verifyElementPresent(findTestObject(""Object Repository/DirTeknis/Order/popUpAddtoCartFailed""), 3, OPTIONAL))",Chrome 74.0.3729.169,,2019-05-23 15:45:29,2019-05-23 15:45:29,0.002s,PASSED
+else,Chrome 74.0.3729.169,,2019-05-23 15:45:29,2019-05-23 15:45:29,0.004s,PASSED
+"waitForElementPresent(findTestObject(""DirTeknis/Order/btnCheckout""), 4)",Chrome 74.0.3729.169,Menunggu sampai tombol Checkout muncul,2019-05-23 15:45:29,2019-05-23 15:45:34,4.850s,PASSED
+"click(findTestObject(""Object Repository/DirTeknis/Order/btnCheckout""))",Chrome 74.0.3729.169,Klik tombol Checkout,2019-05-23 15:45:34,2019-05-23 15:46:06,31.776s,FAILED
+,,,,,,
+Test Cases/Transaksi/PPK - Approve Order,Chrome 74.0.3729.169,,2019-05-23 15:46:06,2019-05-23 15:46:39,33.370s,FAILED
+common.login.loginPPK(),Chrome 74.0.3729.169,Login as PPK,2019-05-23 15:46:06,2019-05-23 15:46:39,32.883s,FAILED
+,,,,,,
+Test Cases/Transaksi/Pengadaan - Approve Order,Chrome 74.0.3729.169,,2019-05-23 15:46:39,2019-05-23 15:46:57,17.850s,FAILED
+common.login.loginPengadaan(),Chrome 74.0.3729.169,Login as User Pengadaan,2019-05-23 15:46:40,2019-05-23 15:46:57,17.102s,FAILED
+,,,,,,
+Test Cases/Transaksi/Vendor - Approve Order,Chrome 74.0.3729.169,,2019-05-23 15:46:57,2019-05-23 15:47:11,14.395s,FAILED
+common.login.loginVendor(),Chrome 74.0.3729.169,,2019-05-23 15:46:57,2019-05-23 15:47:11,14.153s,FAILED
+,,,,,,
+Test Cases/Transaksi/DirTeknis - Konfirmasi Barang,Chrome 74.0.3729.169,Dirteknis melakukan konfirmasi barang setelah Vendor melakukan pengiriman barang,2019-05-23 15:47:11,2019-05-23 15:47:26,14.444s,FAILED
+common.login.loginDirTeknis(),Chrome 74.0.3729.169,Login as Dirteknis,2019-05-23 15:47:12,2019-05-23 15:47:26,14.066s,FAILED
+,,,,,,
+Test Cases/Transaksi/Bendahara - Approve Order,Chrome 74.0.3729.169,Prerequisite: after step/testcase DirTeknis - Konfirmasi Barang,2019-05-23 15:47:26,2019-05-23 15:47:40,14.363s,FAILED
+common.login.loginBendahara(),Chrome 74.0.3729.169,Login as Bendahara,2019-05-23 15:47:26,2019-05-23 15:47:40,14.054s,FAILED

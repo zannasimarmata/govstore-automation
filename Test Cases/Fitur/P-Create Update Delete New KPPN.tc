@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>P-Create Update Delete New KPPN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49e5a691-23a4-402d-a260-95ebbe55a351</testCaseGuid>
+   <variable>
+      <defaultValue>'adminkppn2'</defaultValue>
+      <description></description>
+      <id>82188446-d1ae-48e1-ba2e-e6a9ec226b7a</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'348399888'</defaultValue>
+      <description></description>
+      <id>48027ce5-93b1-41d2-a7f8-1882bc0f060f</id>
+      <masked>false</masked>
+      <name>nip</name>
+   </variable>
+   <variable>
+      <defaultValue>'837128388'</defaultValue>
+      <description></description>
+      <id>233ea14d-6529-4121-97a6-a0f2e2a5e1fe</id>
+      <masked>false</masked>
+      <name>nik</name>
+   </variable>
+   <variable>
+      <defaultValue>'adminkppn@mail.com'</defaultValue>
+      <description></description>
+      <id>5d8a770b-e40e-400b-a392-2d0c0dcf79db</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0812345678'</defaultValue>
+      <description></description>
+      <id>b0cef889-4546-4856-8e27-693343b97cac</id>
+      <masked>false</masked>
+      <name>nohp</name>
+   </variable>
+</TestCaseEntity>

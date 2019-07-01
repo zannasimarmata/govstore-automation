@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>A-Unblockir account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0f84776-d096-4049-9b10-87a2b0e3b9c9</testCaseGuid>
+   <variable>
+      <defaultValue>'zannasukses@yahoo.com'</defaultValue>
+      <description></description>
+      <id>e1006c85-4576-4b42-a1e7-dd0690154618</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

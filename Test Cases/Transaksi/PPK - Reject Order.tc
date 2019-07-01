@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PPK - Reject Order</name>
+   <tag></tag>
+   <comment>Tampung alasan Reject</comment>
+   <testCaseGuid>268a8676-4f99-4a34-a8dd-f3cf64f3ae94</testCaseGuid>
+</TestCaseEntity>

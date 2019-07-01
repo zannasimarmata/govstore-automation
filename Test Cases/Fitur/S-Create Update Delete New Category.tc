@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>S-Create Update Delete New Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4775f97-dbbb-4f2e-acd2-3a6506458602</testCaseGuid>
+   <variable>
+      <defaultValue>'Cat'</defaultValue>
+      <description></description>
+      <id>62ab80a2-050b-460f-86da-285960c15968</id>
+      <masked>false</masked>
+      <name>nama_category</name>
+   </variable>
+   <variable>
+      <defaultValue>'Category'</defaultValue>
+      <description></description>
+      <id>9e383a08-1035-45c2-8537-9df286b396ac</id>
+      <masked>false</masked>
+      <name>new_nama_category</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtNIP</name>
+   <tag></tag>
+   <elementGuidId>8e82ebe1-7398-4f82-81dd-7b86c940a46f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[3]//div[3]//form/div/div[2]//input[@placeholder='nip']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[3]//div[3]//form/div/div[2]//input[@placeholder='nip']</value>
+   </webElementProperties>
+</WebElementEntity>

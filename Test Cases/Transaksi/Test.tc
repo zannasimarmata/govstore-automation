@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>33167676-5be4-4a1d-901c-b5ab2d7304ad</testCaseGuid>
+   <variable>
+      <defaultValue>'Distributor 111'</defaultValue>
+      <description></description>
+      <id>6d579dcc-915a-4ed1-ab36-62c7e48e84ef</id>
+      <masked>false</masked>
+      <name>vara</name>
+   </variable>
+</TestCaseEntity>

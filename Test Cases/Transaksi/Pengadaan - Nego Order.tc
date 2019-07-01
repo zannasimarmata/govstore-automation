@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pengadaan - Nego Order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9eecbafe-987e-481d-b003-89167b0fc1dc</testCaseGuid>
+   <variable>
+      <defaultValue>'2300'</defaultValue>
+      <description></description>
+      <id>e065c339-39d5-446f-b102-ca51666087b1</id>
+      <masked>false</masked>
+      <name>harga_nego_buyer</name>
+   </variable>
+   <variable>
+      <defaultValue>'1000'</defaultValue>
+      <description></description>
+      <id>056ca56c-e1db-4cda-9b19-b87e77f4e5de</id>
+      <masked>false</masked>
+      <name>new_harga_nego_buyer</name>
+   </variable>
+</TestCaseEntity>

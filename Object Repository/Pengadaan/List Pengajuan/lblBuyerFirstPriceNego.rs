@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lblBuyerFirstPriceNego</name>
+   <tag></tag>
+   <elementGuidId>85ed8de3-a6f5-4941-bb6e-107264f1aa78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//ul[2]//span/b[@class='text-orange']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//ul[2]//span/b[@class='text-orange']</value>
+   </webElementProperties>
+</WebElementEntity>

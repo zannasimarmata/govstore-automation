@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtUsername</name>
+   <tag></tag>
+   <elementGuidId>e6c2d49f-ee05-4145-90e9-7e3de750041a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[3]//div[3]//form/div/div/input[@placeholder='nama']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[3]//div[3]//form/div/div/input[@placeholder='nama']</value>
+   </webElementProperties>
+</WebElementEntity>

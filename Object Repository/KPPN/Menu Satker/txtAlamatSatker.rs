@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtAlamatSatker</name>
+   <tag></tag>
+   <elementGuidId>e1c62ce2-bf7a-45dc-9fab-616d5378d3b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[4]/div/div/form//textarea[@placeholder='Alamat']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/form//textarea[@placeholder='Alamat']</value>
+   </webElementProperties>
+</WebElementEntity>

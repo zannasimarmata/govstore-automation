@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pengadaan - Nego Order Kedua</name>
+   <tag></tag>
+   <comment>Close browser</comment>
+   <testCaseGuid>69b4bbca-a5f9-4de8-a3c1-d2e8b3bc5754</testCaseGuid>
+   <variable>
+      <defaultValue>'1950'</defaultValue>
+      <description></description>
+      <id>e67f49b7-213a-4ef9-992b-c4eafd12e1b5</id>
+      <masked>false</masked>
+      <name>buyer_new_nego</name>
+   </variable>
+   <variable>
+      <defaultValue>'1300'</defaultValue>
+      <description></description>
+      <id>51483c0f-910a-4d07-a5e8-c740d33868d8</id>
+      <masked>false</masked>
+      <name>buyer_valid_nego</name>
+   </variable>
+</TestCaseEntity>

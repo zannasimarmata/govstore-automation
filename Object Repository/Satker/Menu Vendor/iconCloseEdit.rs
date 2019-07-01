@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iconCloseEdit</name>
+   <tag></tag>
+   <elementGuidId>1e678b6f-c2a6-40c1-8828-6133336f698a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>*//div[3]//div[3]//i[@class='icon-cancel-circle2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>*//div[3]//div[3]//i[@class='icon-cancel-circle2']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>V-Create New Employee Update and Delete (wo validation)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c8a39de-88f0-42b8-bc8a-ba76a5baee4a</testCaseGuid>
+   <variable>
+      <defaultValue>'Isyana'</defaultValue>
+      <description></description>
+      <id>5c84833a-4703-4052-ad46-8e0642bd9d47</id>
+      <masked>false</masked>
+      <name>nama_employee</name>
+   </variable>
+   <variable>
+      <defaultValue>'isyana'</defaultValue>
+      <description></description>
+      <id>5cc45e37-8ed6-4f5a-8139-50841d78d8c5</id>
+      <masked>false</masked>
+      <name>email_employee</name>
+   </variable>
+   <variable>
+      <defaultValue>'081234567890'</defaultValue>
+      <description></description>
+      <id>c668c2eb-cd44-4277-ae50-1889bf4f0b12</id>
+      <masked>false</masked>
+      <name>no_telp</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sarasvati'</defaultValue>
+      <description></description>
+      <id>50d25d4d-c984-4b10-b9ad-a2015f4f1a54</id>
+      <masked>false</masked>
+      <name>new_nama_employee</name>
+   </variable>
+   <variable>
+      <defaultValue>'08987654321'</defaultValue>
+      <description></description>
+      <id>f519681f-bf6c-425b-8dfd-c37febb0ae15</id>
+      <masked>false</masked>
+      <name>new_no_telp</name>
+   </variable>
+</TestCaseEntity>

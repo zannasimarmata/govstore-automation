@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test Suite Create Order until Order Received,,,2019-05-23 13:51:46,2019-05-23 13:54:32,2m - 45.889s,FAILED
+,,,,,,
+Test Cases/General/Open Browser,,,2019-05-23 13:51:46,2019-05-23 13:54:17,2m - 31.007s,FAILED
+"openBrowser("""")",,,2019-05-23 13:51:47,2019-05-23 13:54:17,2m - 30.709s,FAILED
+,,,,,,
+Test Cases/Transaksi/DirTeknis - Create Order - Normal,,Dirteknis create new order. This testcase has no validation,2019-05-23 13:54:19,2019-05-23 13:54:21,2.067s,FAILED
+waitForPageLoad(4),,,2019-05-23 13:54:20,2019-05-23 13:54:21,0.512s,FAILED
+,,,,,,
+Test Cases/Transaksi/PPK - Approve Order,,,2019-05-23 13:54:21,2019-05-23 13:54:27,5.553s,FAILED
+common.login.loginPPK(),,Login as PPK,2019-05-23 13:54:23,2019-05-23 13:54:27,4.089s,FAILED
+,,,,,,
+Test Cases/Transaksi/Pengadaan - Approve Order,,,2019-05-23 13:54:27,2019-05-23 13:54:28,0.877s,FAILED
+common.login.loginPengadaan(),,Login as User Pengadaan,2019-05-23 13:54:28,2019-05-23 13:54:28,0.013s,FAILED
+,,,,,,
+Test Cases/Transaksi/Vendor - Approve Order,,,2019-05-23 13:54:28,2019-05-23 13:54:29,1.179s,FAILED
+common.login.loginVendor(),,,2019-05-23 13:54:29,2019-05-23 13:54:29,0.015s,FAILED
+,,,,,,
+Test Cases/Transaksi/DirTeknis - Konfirmasi Barang,,Dirteknis melakukan konfirmasi barang setelah Vendor melakukan pengiriman barang,2019-05-23 13:54:29,2019-05-23 13:54:30,0.730s,FAILED
+common.login.loginDirTeknis(),,Login as Dirteknis,2019-05-23 13:54:30,2019-05-23 13:54:30,0.325s,FAILED
+,,,,,,
+Test Cases/Transaksi/Bendahara - Approve Order,,Prerequisite: after step/testcase DirTeknis - Konfirmasi Barang,2019-05-23 13:54:30,2019-05-23 13:54:31,0.827s,FAILED
+common.login.loginBendahara(),,Login as Bendahara,2019-05-23 13:54:31,2019-05-23 13:54:31,0.010s,FAILED

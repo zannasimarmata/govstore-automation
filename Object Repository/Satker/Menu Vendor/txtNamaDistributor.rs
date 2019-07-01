@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtNamaDistributor</name>
+   <tag></tag>
+   <elementGuidId>ae33e49f-6e50-43db-9a05-fde5cb070a04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[4]/div/div/form/div/div/div/div/input[@placeholder='nama']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/form/div/div/div/div/input[@placeholder='nama']</value>
+   </webElementProperties>
+</WebElementEntity>
